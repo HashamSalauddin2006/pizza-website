@@ -366,12 +366,22 @@ section {
   justify-content: center;
 }
 
-.features_section .features-box.features-icon {
+.features_section .features-box .features-icon img{
   width: 3.7rem;
 
 }
-.features .features-box  h3{
-  margin-top: 1.5rem;
-  color: var(--primary-text);
+/* about section css deisgn */
+.landing_about_section{
+  background: url(./assets/images/images/about/about-banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 9rem 0;
 }
-
+.landing_about_section p{
+  color: var(--primary-text);
+  margin-bottom: 2rem;
+}
+.landing_about_section a{
+  text-decoration: none;
+}
