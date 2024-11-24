@@ -388,6 +388,7 @@ section {
 }
 .landing_about_section a{
   text-decoration: none;
+<<<<<<< HEAD
 }
 /* section product design css */
 .landing_product_section .product-card{
@@ -578,3 +579,6 @@ section {
   color: var(--primary-text) !important;
   font-weight: 600 !important;
 }
+=======
+}
+>>>>>>> 48d37ae042f0e1fd1bd279fb165af4374d3095a2
